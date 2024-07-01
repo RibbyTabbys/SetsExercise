@@ -1,0 +1,1 @@
+clang.exe -o SetsExercise.exe SetsExercise.c main.c
